@@ -1,5 +1,5 @@
 ## IMDB Web Scraping and Model Building
-This is a web scraping and model building project based on the results of the data acquired through web scraping.
+This is a python web scraping project. Further, model building is carried out based on the results of the data acquired through web scraping.
 
 ### Task-1
 - Web scraping activity is carried out from the URL for [IMDB Top rated movies](https://www.imdb.com/chart/top?ref_=nv_mv_250)
